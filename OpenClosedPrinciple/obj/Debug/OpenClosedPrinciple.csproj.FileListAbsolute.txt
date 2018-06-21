@@ -1,0 +1,12 @@
+C:\Users\galax\RiderProjects\Algorithms\DesignPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\galax\RiderProjects\Algorithms\DesignPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\galax\RiderProjects\Algorithms\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Algorithms\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Algorithms\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\galax\RiderProjects\Algorithms\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
+P:\DesignPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+P:\DesignPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
+P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
