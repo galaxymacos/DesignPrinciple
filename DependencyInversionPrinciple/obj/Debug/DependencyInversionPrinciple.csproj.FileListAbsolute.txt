@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\DesignPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\galax\RiderProjects\DesignPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\galax\RiderProjects\DesignPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\DesignPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\DesignPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\galax\RiderProjects\DesignPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

@@ -10,3 +10,9 @@ P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssem
 P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
 P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
 P:\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
+C:\Users\galax\RiderProjects\DesignPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\galax\RiderProjects\DesignPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\galax\RiderProjects\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\galax\RiderProjects\DesignPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
